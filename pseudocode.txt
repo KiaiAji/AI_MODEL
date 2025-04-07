@@ -1,0 +1,62 @@
+PROGRAM PenentuRuteTerpendek
+
+IMPORT library: math, osmnx, geopy, networkx, random, folium
+
+FUNGSI calculate_great_circle_distance(lat1, lon1, lat2, lon2)
+    // Hitung jarak melengkung antar dua titik koordinat
+    RETURN jarak
+
+FUNGSI shortest_path_genetic(G, start, end, population_size, generations, mutation_rate)
+    SIMPAN panjang edge dari graf
+
+    FUNGSI initialize_population()
+        Tambahkan rute dijkstra ke populasi jika ada
+        Tambahkan rute acak lainnya untuk isi populasi awal
+
+    FUNGSI calculate_path_length(path)
+        Hitung panjang total path berdasarkan edge
+
+    FUNGSI fitness_function(path)
+        RETURN nilai fitness berdasarkan panjang path (semakin pendek, semakin baik)
+
+    FUNGSI crossover(parent1, parent2)
+        Gabungkan dua path berdasarkan simpul yang sama
+
+    FUNGSI mutate(path)
+        Ganti node tengah secara acak dengan tetangga
+
+    // EVOLUSI GENETIK
+    Buat populasi awal
+    UNTUK setiap generasi:
+        Hitung fitness dari setiap individu
+        Pilih parent terbaik secara acak (tournament selection)
+        Buat generasi baru melalui crossover dan mutasi
+
+    Pilih rute terbaik dari populasi terakhir
+    RETURN rute terbaik dan jaraknya
+
+FUNGSI calculate_travel_times(jarak)
+    Hitung estimasi waktu tempuh untuk jalan kaki, motor, mobil
+    RETURN dictionary waktu
+
+FUNGSI main()
+    Ambil graf jalan dari OpenStreetMap (Universitas Bengkulu)
+    Inisialisasi geocoder
+
+    Minta input lokasi awal dan tujuan dari user
+    Ubah nama lokasi ke koordinat dengan geopy
+    Jika tidak valid, hentikan program
+
+    Temukan node terdekat di graf berdasarkan koordinat
+
+    Cari rute terbaik dengan shortest_path_genetic
+    Jika gagal, hentikan program
+
+    Buat peta folium dan tampilkan:
+        - Rute terbaik (polyline)
+        - Marker lokasi awal dan tujuan
+        - Informasi jarak dan waktu dalam box HTML atas & bawah
+
+    Simpan peta ke file HTML dan beri tahu user
+
+JALANKAN main() jika program dijalankan langsung
