@@ -1,4 +1,4 @@
-<h1 align="center">SHORTEST PATH WITH Genetika ALGORITHM Kampus UNIB</h1>
+<h1 align="center">Shortest Path With Genetika Algorithm Kampus UNIB</h1>
 <align="center"> Proyek ini akan menampilkan rute terpendek antar lokasi di lingkungan Kampus Universitas Bengkulu menggunakan algoritma Genetika
 
 <h2>Analisis kinerja kode dan algoritma</h2>
