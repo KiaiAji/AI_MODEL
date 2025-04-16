@@ -1,6 +1,7 @@
 <h1 align="center">SHORTEST PATH WITH Genetika ALGORITHM Kampus UNIB</h1>
-<h3 align="center"> Proyek ini akan menampilkan rute terpendek antar lokasi di lingkungan Kampus Universitas Bengkulu menggunakan algoritma Genetika</h3>
+<align="center"> Proyek ini akan menampilkan rute terpendek antar lokasi di lingkungan Kampus Universitas Bengkulu menggunakan algoritma Genetika
 
+<h2>Analisis kinerja kode dan algoritma</h2>
 Algoritma genetika memiliki sejumlah keunggulan penting dalam menangani masalah optimasi yang rumit. Kemampuannya untuk secara efisien menjelajahi ruang solusi yang luas, menghindari jebakan optimum lokal melalui mekanisme mutasi, serta fleksibilitasnya dalam berbagai jenis permasalahan menjadikannya pilihan yang menarik. Selain itu, sifat adaptif dan kemudahan dalam melakukan paralelisasi memberikan keuntungan dalam hal komputasi. Namun, algoritma ini juga memiliki beberapa kelemahan yang perlu diperhatikan. Proses konvergensi yang kadang-kadang lambat, kesulitan dalam menentukan parameter yang paling sesuai, tantangan dalam merancang representasi solusi yang efektif, serta tidak adanya jaminan untuk menemukan solusi global yang optimal merupakan batasan yang harus diperhatikan dalam penerapannya. Hal ini juga dirasakan oleh kelompok kami, di mana terdapat beberapa aspek yang sulit dilaksanakan akibat kompleksitas algoritma ini.
 berikut hasil pengamatan kami:
 
