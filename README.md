@@ -7,7 +7,6 @@
 
 📌Berikut hasil pengamatan kami:
 1. Rute yang diberikan belum sesuai dengan google maps, jalan yang seharusnya satu arah yang dimana mengharuskan user untuk putar arah dan mencari jalan tercepat tidak ditampilkan.
-<!-- Uploading "Screenshot 2025-04-16 091010.png"... -->
 3. Loading untuk menjalankan kode yang telah dibuat masih tergolong lambat
 4. tidak bisa melihat salah satu jalur( motor saja, atau jalan kaki saja , atau mobilsaja)
 
