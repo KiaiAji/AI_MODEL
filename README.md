@@ -8,7 +8,8 @@
 📌Berikut hasil pengamatan kami:
 1. Rute yang diberikan belum sesuai dengan google maps, jalan yang seharusnya satu arah yang dimana mengharuskan user untuk putar arah dan mencari jalan tercepat tidak ditampilkan.
 3. Loading untuk menjalankan kode yang telah dibuat masih tergolong lambat
-4. tidak bisa melihat salah satu jalur( motor saja, atau jalan kaki saja , atau mobilsaja)
+![alt text](https://github.com/KiaiAji/AI_MODEL/blob/main/Cuplikan%20layar%202025-04-21%20231555.png?raw=true)
+5. tidak bisa melihat salah satu jalur( motor saja, atau jalan kaki saja , atau mobilsaja)
 
 📌Masalah yang kami temukan no 1 dan 3 yaitu jalan antar gedung yang tidak dapat di akses dengan satu arah sesuai dengan peraturan Jalan Universitas Bengkulu akan menyebabkan beberapa komplikasi pada sistem kami yaitu sistem makin lambat, serta rentan akan eror, hal ini juga berlaku untuk  tidak bisa melihat salah satu jalur. 
 
