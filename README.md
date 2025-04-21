@@ -1,9 +1,22 @@
 # 🗺️ SHORTEST PATH WITH GENETIC ALGORITHM KAMPUS UNIB
 ## Proyek ini akan menampilkan rute terpendek antar lokasi di lingkungan Kampus Universitas Bengkulu menggunakan algoritma Genetika
 
+## 👥 Anggota Kelompok 8
+
+| Nama                     | GitHub                                      |
+|--------------------------|---------------------------------------------|
+| Muhammad Fadli Rahmansyah | [MuhammadFadliRahmansyahG1A023005](https://github.com/MuhammadFadliRahmansyahG1A023005)  |
+| Koreza Almukadima          | [zaa](https://github.com/Korezaalmukadima) |
+| Hana Syarifah   | [HanaSyarifahG1A023017](https://github.com/HanaSyarifahG1A023017?authuser=0)    |
+| Merischa Theresia Hutauruk  | [merischahutauruk](https://github.com/merischahutauruk)   |
+|Ghazi Al Ghfari   | [KiaiAji](https://github.com/KiaiAji)     |
+| Attar Zaki       |   [AttarZaki](https://github.com/attarzaki)                                          |
+
+
+
+
 # Analisis kesalahan/kekurangan dari AI yang dibuat
 📌Algoritma genetika memiliki sejumlah keunggulan penting dalam menangani masalah optimasi yang rumit. Kemampuannya untuk secara efisien menjelajahi ruang solusi yang luas, menghindari jebakan optimum lokal melalui mekanisme mutasi, serta fleksibilitasnya dalam berbagai jenis permasalahan menjadikannya pilihan yang menarik. Selain itu, sifat adaptif dan kemudahan dalam melakukan paralelisasi memberikan keuntungan dalam hal komputasi. Namun, algoritma ini juga memiliki beberapa kelemahan yang perlu diperhatikan. Proses konvergensi yang kadang-kadang lambat, kesulitan dalam menentukan parameter yang paling sesuai, tantangan dalam merancang representasi solusi yang efektif, serta tidak adanya jaminan untuk menemukan solusi global yang optimal merupakan batasan yang harus diperhatikan dalam penerapannya. Hal ini juga dirasakan oleh kelompok kami, di mana terdapat beberapa aspek yang sulit dilaksanakan akibat kompleksitas algoritma ini.
-
 
 📌Berikut hasil pengamatan kami:
 1. Rute yang diberikan belum sesuai dengan google maps, jalan yang seharusnya satu arah yang dimana mengharuskan user untuk putar arah dan mencari jalan tercepat tidak ditampilkan.
