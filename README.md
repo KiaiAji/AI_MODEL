@@ -48,6 +48,48 @@ Selanjutnya sama pada pembahasan no 1 disini langsung menampilkan semua jarak uk
 
 📌Dan pada model ai ini dengan mengunakan algoritma genetika ini pada yang mana disini ai tersebut membutuhkan untuk dicuba beberapa kali agar pada saat nantinya shothers path ini bisa dan tidak terlalu lama untuk loading nya .
 
+
+## 🚀 Teknologi yang Digunakan
+
+### ✅ Frontend
+- **HTML5 & CSS3**  
+  Digunakan untuk struktur dan tata letak halaman.
+
+- **JavaScript**  
+  Untuk menangani peta interaktif dan elemen dinamis pada halaman.
+
+- **Bootstrap 5.2.2**  
+  Framework CSS untuk tampilan responsif dan komponen UI.
+
+- **jQuery 3.7.1**  
+  Mempermudah manipulasi DOM dan interaksi dinamis.
+
+---
+
+### 🗺️ Peta dan Visualisasi
+- **Leaflet.js 1.9.3**  
+  Library utama untuk membuat peta interaktif berbasis OpenStreetMap.
+
+- **OpenStreetMap (OSM)**  
+  Penyedia tile peta gratis dan terbuka yang digunakan dalam Leaflet.
+
+- **Leaflet.awesome-markers**  
+  Digunakan untuk membuat marker lokasi yang berwarna dan ikonik.
+
+---
+
+### 🎨 Ikon & Tampilan
+- **Font Awesome 6.2.0**  
+  Ikon berbasis font yang modern dan fleksibel.
+
+- **Bootstrap Glyphicons**  
+  Ikon tambahan dari Bootstrap 3 (opsional).
+
+---
+
+### 🐍 Backend
+- *(Python 3)** 
+---
 # 🧪 Penjelasan Kode Pencari Rute Universitas Bengkulu
 
 Menjelaskan setiap bagian dari kode Python dengan mengunakan algoritma (Genetic Algrithm) untuk aplikasi pencari rute di sekitar Universitas Bengkulu.
