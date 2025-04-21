@@ -83,7 +83,7 @@ Selanjutnya sama pada pembahasan no 1 disini langsung menampilkan semua jarak uk
   Ikon berbasis font yang modern dan fleksibel.
 
 - **Bootstrap Glyphicons**  
-  Ikon tambahan dari Bootstrap 3 (opsional).
+  Ikon tambahan dari Bootstrap 3.
 
 ---
 
