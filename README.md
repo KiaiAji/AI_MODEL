@@ -35,7 +35,7 @@ Selanjutnya sama pada pembahasan no 1 disini langsung menampilkan semua jarak uk
 
 📌Dan pada model ai ini dengan mengunakan algoritma genetika ini pada yang mana disini ai tersebut membutuhkan untuk dicuba beberapa kali agar pada saat nantinya shothers path ini bisa dan tidak terlalu lama untuk loading nya .
 
-# Penjelasan Kode Pencari Rute Universitas Bengkulu
+# 🧪 Penjelasan Kode Pencari Rute Universitas Bengkulu
 
 Menjelaskan setiap bagian dari kode Python dengan mengunakan algoritma (Genetic Algrithm) untuk aplikasi pencari rute di sekitar Universitas Bengkulu.
 
